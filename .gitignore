@@ -14,3 +14,22 @@ project.properties
 *.sublime-project
 *.sublime-workspace
 .sublimelinterrc
+
+# Built packages
+build/
+build-module/
+build-style/
+build-style.js
+build-types/
+dist/
+oclif.manifest.json
+
+# Project files
+node_modules/
+vendor/
+
+# TypeScript files
+tsconfig.tsbuildinfo
+
+# Node Package Dependencies
+package-lock.json
